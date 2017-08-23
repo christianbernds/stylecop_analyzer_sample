@@ -31,19 +31,19 @@ Ich möchte hiermit aufzeigen wie die StyleCop Analyzer in ein .NET Core Projekt
 
 ### Setup/Installation
 
-    ```shell
-    $ cd StyleCopTest
-    $ dotnet restore
-    $ dotnet build
-    ```
+```shell
+$ cd StyleCopTest
+$ dotnet restore
+$ dotnet build
+```
 
 ## Wie kann ich das Projekt benutzen?
 
 Durch den `dotnet build` Vorgang wird in der Konsole jeder StyleCop verstoß als Warnung protokolliert.
 
-    ```shell
-    $ dotnet build
-    ```
+```shell
+$ dotnet build
+```
 
 
 ## Was muss ich sonst noch wissen?
