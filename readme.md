@@ -52,6 +52,13 @@ $ dotnet build
 * Für verschiedene Regeln können weitere Einstellungen getätigt werden, diese werden in der `stylecop.json` vorgenommen
 
 
+## Offene Punkte
+
+* stylecop.json und stylecop.ruleset anpassen
+* `Missing XML comment for publicly visible type or member 'Class1' [StyleCopTest]` beheben, da <NoWarn> innerhalb der `.csproj`-Datei nicht eingreift um diesen Fehler aus dem Problem-Tab von VSCode zu löschen.
+
+
+
 ### Wen kann ich auf das Projekt ansprechen?
 
 * Christian Bernds
