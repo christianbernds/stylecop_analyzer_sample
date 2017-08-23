@@ -39,7 +39,8 @@ $ dotnet build
 
 ## Wie kann ich das Projekt benutzen?
 
-Durch den `dotnet build` Vorgang wird in der Konsole jeder StyleCop verstoß als Warnung protokolliert.
+Durch den `dotnet build` Vorgang wird in der Konsole jeder StyleCop Verstoß als Warnung protokolliert.
+Des Weiteren können die Warnungen unter Probleme in Visual Studio Code angezeigt werden.
 
 ```shell
 $ dotnet build
